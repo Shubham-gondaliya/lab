@@ -7,7 +7,7 @@ class sum
 		 sum=a+b;
 		 diffrence=a-b;
 		 product=a*b;
-		 average = a/b;
+		 average = sum/2;
 		 System.out.println("sum is :- "+sum);
 		 System.out.println("diffrence is :- "+diffrence);
 		 System.out.println("product is :-"+product);
